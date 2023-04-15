@@ -17,7 +17,7 @@ comments = [
 
 # Post link
 
-media = cl.media_pk_from_url("https://www.instagram.com/p/CqCdkdMoe3E")
+media = cl.media_pk_from_url("https://www.instagram.com/p/Cq0rLUMIALw/")
 
 # Comments Loop
 
