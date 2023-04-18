@@ -13,7 +13,7 @@ cl.login(USERNAME, PASSWORD)
 
 comments = [
   'Senpai !', "I'm a lovely bot", 'Nice post!', 'Keep up the great work!',
-  'One Piece is the GOAT. ', ' CR7 Best Player .']
+  'One Piece is the GOAT. ', ' CR7 Best Player .', ' Dev By @0HAK ' ]
 
 # Post link
 
